@@ -2,6 +2,6 @@
 
 This repo is for assignments of Deep Learning in Computer Vision in NTU `CommE5052` (DLCV).
 
-# Projects
+## Projects
 
 * Face classification with eigenfaces and kNN.  
